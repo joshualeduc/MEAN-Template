@@ -1,0 +1,1 @@
+var myApp = angular.module('BossApp', ['ui.router']);
